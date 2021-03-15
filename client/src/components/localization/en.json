@@ -1,0 +1,42 @@
+{
+  "navigation-menu.search": "Search",
+
+  "navigation-menu.home": "Home",
+  "navigation-menu.admin": "Admin",
+  "navigation-menu.account": "Account",
+  "navigation-menu.auth": "Log In / Register",
+  "navigation-menu.exit": "Exit",
+
+  "autentification.title": "Autentification",
+  "autentification-email.label": "Email",
+  "autentification-password.label": "Password",
+  "autentification-button.login": "Login",
+  "autentification-button.register": "Sign up",
+
+  "account-button.create": "Create fanfic",
+  "account-button.save": "Save the changes",
+
+  "fanficCard-button.addFanfic": "Add a fanfic",
+  "fanficCard-button.deleteFanfic": "Delete a  fanfic",
+
+  "fanficCard-button.addComment": "Add a comment",
+
+  "chapterFanfic-button.amendChapter": "Amend chapter",
+
+  "fanfic-create.title-fanfic":"The title of the fanfic",
+  "fanfic-create.description":"Brief description",
+  "fanfic-create.genre":"Genre",
+  "fanfic-create.tags":"Enter some tags",
+  "fanfic-create.title-chapter":"The title of the Chapter",
+  "fanfic-create.text-chapter":"Text",
+
+  "fanfic-create.genre-0":"Choose a genre",
+  "fanfic-create.genre-1":"Detective",
+  "fanfic-create.genre-2":"Thriller",
+  "fanfic-create.genre-3":"Novel",
+  "fanfic-create.genre-4":"Adventures",
+  "fanfic-create.genre-5":"Fantasy",
+  "fanfic-create.genre-6":"Folklore",
+  "fanfic-create.genre-7":"Humor",
+  "fanfic-create.genre-8":"Etc"
+}

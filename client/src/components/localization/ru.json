@@ -1,0 +1,40 @@
+{
+  "navigation-menu.search": "Поиск",
+  "navigation-menu.home": "Домашняя страница",
+  "navigation-menu.admin": "Админ панель",
+  "navigation-menu.account": "Личный кабинет",
+  "navigation-menu.auth": "Войти / Зарегестрироваться",
+  "navigation-menu.exit": "Выйти",
+
+  "autentification.title": "Аутентификация",
+  "autentification-email.label": "Электронная почта",
+  "autentification-password.label": "Пароль",
+  "autentification-button.login": "Войти",
+  "autentification-button.register": "Зарегистрироваться",
+  "account-button.create": "Созадть фанфик",
+  "account-button.save": "Сохранить изменения",
+
+  "fanficCard-button.addFanfic": "Добавить главу",
+  "fanficCard-button.deleteFanfic": "Удалить фанфик",
+
+  "fanficCard-button.addComment": "Добавить комментарий",
+
+  "chapterFanfic-button.amendChapter":"Изменить главу",
+
+  "fanfic-create.title-fanfic":"Название фанфика",
+  "fanfic-create.description":"Краткое описание",
+  "fanfic-create.genre":"Жанр",
+  "fanfic-create.tags":"Введите тэги",
+  "fanfic-create.title-chapter":"Название главы",
+  "fanfic-create.text-chapter":"Текст",
+
+  "fanfic-create.genre-0":"Выберите жанр",
+  "fanfic-create.genre-1":"Детектив",
+  "fanfic-create.genre-2":"Триллер",
+  "fanfic-create.genre-3":"Роман",
+  "fanfic-create.genre-4":"Приключения",
+  "fanfic-create.genre-5":"Фантастика",
+  "fanfic-create.genre-6":"Фольклор",
+  "fanfic-create.genre-7":"Юмор",
+  "fanfic-create.genre-8":"Прочее"
+}
